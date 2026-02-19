@@ -8,7 +8,7 @@ from flask import Flask
 from threading import Thread
 
 # --- ТАНЗИМОТ ---
-TOKEN = '8126192450:AAHuuv9o8fSFW9P96OfXrSNYdcJMONM58zQ'
+TOKEN = '8126192450:AAHjRkWshwnvbKXU5saAF_ChNU6X4JVC6aU'
 GEMINI_KEY = 'AIzaSyBMtb30V4UkMw_XbDyytHdthDGic7AWP_8'
 ADMIN_ID = 8014656470 # ID-и дурусти ту ✅
 DC_NUMBER = "+992904104860"
